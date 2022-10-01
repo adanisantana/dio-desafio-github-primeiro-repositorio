@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio de Projeto sobre Git/Git Hub
+# Dio- Primeiro Repositório- Bootcamp Potencial Tech #C
+Este projeto para iniciar os conhecimentos em criação de repositórios. 
